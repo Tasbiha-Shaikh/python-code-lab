@@ -1,0 +1,36 @@
+# # print("hi")
+# git add . it will add all files 
+# git commit -m"write a commit" the change you want to make or if you push somthing new commit it 
+# git push it will push all files to github
+
+
+
+# abi hm na ak new file bnai hai ya wali to is ko push kr ka dkhaow kro .... kuch khass samj ni aye tu mai ni kr rhi 
+# acha 
+# ya dkho
+
+
+
+sb sa phla hm na repo bnai 
+
+repo bnana ka baad hm na ya wala code copy kr lana hai
+echo "# demo-repo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Tasbiha-Shaikh/demo-repo.git
+git push -u origin main
+
+
+
+phr just isa terminal me run kr dana hai
+
+git add .
+git commit -m"asjhdfkjashdf"
+git push 
+
+
+lagi smj ?
+phla ji a gai samj shi ab ya jo code github sa copy kya tha na wo bs ak bar chalana hai ta ka ya folder repo sa conect ho jay or phla jo user name email li thi wo bs is lya ku ka first time tha ab bs ya 3 lines chalani hai or commit krna hai commit ma file ka name lkh dana ya jo aj seekha wo likh dana or baki ab ya green ka mtlb hai ka ya file new hai jo push ni ki abi tk isa push kro abi 
+ 
